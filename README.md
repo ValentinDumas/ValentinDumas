@@ -1,4 +1,4 @@
-# Valentin Dumas
+# 👋
 
 **Senior Fullstack Engineer \| Java · Kotlin · Distributed Systems ·
 Clean Architecture**
