@@ -7,11 +7,17 @@ designing event-driven architectures.
 
 ------------------------------------------------------------------------
 
-
-
-🌍 Open to international collaboration !\
+🌍 Open to international collaboration !
 
 🎤 Conference speaker
+
+------------------------------------------------------------------------
+
+## 🧠 Problem Solving & Algorithms
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-valentindumas-orange?logo=leetcode&logoColor=white)](https://leetcode.com/valentindumas/)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/valentindumas?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/valentindumas/)
 
 ------------------------------------------------------------------------
 
