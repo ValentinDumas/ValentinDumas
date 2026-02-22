@@ -4,7 +4,7 @@
 Building scalable backend systems, modernizing legacy platforms, and
 designing event-driven architectures.
 
-🌍 Open to international collaboration !
+🌍 Open to international collaboration !\
 
 🎤 Conference speaker
 
