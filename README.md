@@ -1,5 +1,5 @@
 
-## **Senior Fullstack Engineer | Java · Kotlin · Spring \n· Distributed Systems · Clean Architecture**
+## **Senior Fullstack Engineer \| Java · Kotlin · Spring · Distributed Systems · Clean Architecture**
 
 Building scalable backend systems, modernizing legacy platforms, and
 designing event-driven architectures.
