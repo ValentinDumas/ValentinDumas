@@ -1,9 +1,13 @@
 
-## **Senior Fullstack Engineer**
-**Java · Kotlin · Spring · Distributed Systems · Clean Architecture**
+**Senior Fullstack Engineer**\
+*Java · Kotlin · Spring · Distributed Systems · Clean Architecture*\
 
 Building scalable backend systems, modernizing legacy platforms, and
 designing event-driven architectures.
+
+------------------------------------------------------------------------
+
+
 
 🌍 Open to international collaboration !\
 
@@ -106,12 +110,18 @@ and enjoy solving complex system evolution problems.
 I regularly speak at European tech conferences on software engineering
 topics including AI, testing, and legacy systems.
 
-Conferences: - Devoxx France - Voxxed Days Luxembourg - Sunny Tech -
-DevFest Paris - DevQuest - Normandie.AI (Keynote)
+Conferences:
+  - Devoxx France
+  - Voxxed Days Luxembourg
+  - Sunny Tech
+  - DevFest Paris
+  - DevQuest
+  - Normandie.AI (Keynote)
 
-Topics include: - "The Legacy Code Dilemma: Maintain or Rewrite?" - AI
-collaboration in software engineering - Delegating testing workflows to
-AI systems
+Topics include: 
+  - "The Legacy Code Dilemma: Maintain or Rewrite?"
+  - AI collaboration in software engineering
+  - Delegating testing workflows to AI systems
 
 ------------------------------------------------------------------------
 
@@ -132,5 +142,7 @@ short-term speed.
 ## Contact
 
 LinkedIn: https://linkedin.com/in/valentindumas\
+
 Website: https://craft-agents.com\
+
 Email: pro.valentindumas@gmail.com
