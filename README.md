@@ -1,23 +1,26 @@
 
 **Senior Fullstack Engineer**\
-*Java · Kotlin · Spring · Distributed Systems · Clean Architecture*\
+*Java · Kotlin · Spring · Distributed Systems · Clean Architecture*
 
-Building scalable backend systems, modernizing legacy platforms, and
-designing event-driven architectures.
+> I design systems that age well.\
+> My focus is sustainable architecture, progressive modernization, and\
+> helping teams make better technical decisions under real constraints.
 
 ------------------------------------------------------------------------
 
-🌍 Open to international collaboration !
+🌍 Open to international collaboration\
 
 🎤 Conference speaker
 
 ------------------------------------------------------------------------
 
-## 🧠 Problem Solving & Algorithms
+## 🧠 Algorithmic Thinking
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-valentindumas-orange?logo=leetcode&logoColor=white)](https://leetcode.com/valentindumas/)
+I maintain algorithmic sharpness through regular problem solving and
+competitive programming practice.
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/valentindumas?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/valentindumas/)
+[![LeetCode
+Stats](https://leetcard.jacoblin.cool/valentindumas?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/valentindumas/)
 
 ------------------------------------------------------------------------
 
@@ -35,8 +38,20 @@ My work focuses on:
 -   Optimizing high-volume SQL systems
 -   Establishing clean code and testing practices across teams
 
-I operate comfortably in both **Greenfield and Brownfield** environments
-and enjoy solving complex system evolution problems.
+I operate effectively in both Greenfield and complex Brownfield
+environments and enjoy solving complex system evolution problems.
+
+------------------------------------------------------------------------
+
+## 🧩 Systems Thinking
+
+I focus on:
+
+-   Tradeoff analysis over dogmatic decisions
+-   Incremental modernization over risky rewrites
+-   Failure-mode awareness in distributed systems
+-   Operational feedback loops (metrics, logs, observability)
+-   Designing for evolvability, not just delivery
 
 ------------------------------------------------------------------------
 
@@ -46,17 +61,18 @@ and enjoy solving complex system evolution problems.
 
 -   Contributed to a full core banking system rewrite with progressive
     customer migration
--   Designed messaging flows using Kafka with DLQ strategies
--   Optimized SQL queries processing millions of records
--   Applied Clean Architecture and DDD principles in production
--   Worked in a senior squad with strong engineering standards and code
-    review culture
+-   Designed resilient Kafka messaging flows with DLQ strategies
+-   Reduced critical SQL execution times under high load conditions
+-   Applied Clean Architecture and DDD principles in production systems
+-   Worked within a senior engineering culture emphasizing strong code
+    review standards
 
 ### ⚡ Smart Charging Microservices (Energy Sector)
 
 -   Built backend microservices and frontend integrations for EV
     charging infrastructure
--   Improved event-driven communication performance (RabbitMQ)
+-   Improved RabbitMQ-driven event throughput and reduced processing
+    latency
 -   Refactored legacy components using acceptance testing strategies
 -   Delivered end-to-end features from design workshops to production
     deployment
@@ -70,64 +86,37 @@ and enjoy solving complex system evolution problems.
 
 ------------------------------------------------------------------------
 
+## 🤝 Community & Mentorship
+
+-   Promoting strong code review culture
+-   Encouraging clean architecture practices across teams
+-   Sharing knowledge through internal tech talks
+-   Supporting engineers in distributed system design
+
+------------------------------------------------------------------------
+
+## 🔬 Currently Exploring
+
+-   AI-assisted software engineering workflows
+-   LLM-driven testing strategies
+-   Architecture patterns for AI-native systems
+
+------------------------------------------------------------------------
+
 ## Core Technical Stack
 
 ### Backend
 
--   Java 17 / 21
--   Kotlin
--   Spring Boot 3+
--   JPA / Hibernate
--   REST APIs
--   Kafka / RabbitMQ
--   PostgreSQL / MongoDB / SQLite
+Java 17 / 21 · Kotlin · Spring Boot 3+ · JPA / Hibernate · REST APIs\
+Kafka · RabbitMQ · PostgreSQL · MongoDB · SQLite
 
 ### Frontend
 
--   React
--   Angular
--   Vue 3 / Nuxt 3
--   TypeScript
+React · Angular · Vue 3 · Nuxt 3 · TypeScript
 
 ### Cloud & DevOps
 
--   Docker
--   Kubernetes
--   GitLab CI/CD
--   Jenkins
--   ArgoCD
--   GCP / Azure
-
-------------------------------------------------------------------------
-
-## Engineering Principles
-
--   Clean Architecture over framework-driven design
--   Explicit domain modeling (DDD)
--   Testability as a first-class concern
--   Observability & operational awareness
--   Sustainable refactoring of legacy systems
--   Clear commit hygiene and documentation
-
-------------------------------------------------------------------------
-
-## Public Speaking
-
-I regularly speak at European tech conferences on software engineering
-topics including AI, testing, and legacy systems.
-
-Conferences:
-  - Devoxx France
-  - Voxxed Days Luxembourg
-  - Sunny Tech
-  - DevFest Paris
-  - DevQuest
-  - Normandie.AI (Keynote)
-
-Topics include: 
-  - "The Legacy Code Dilemma: Maintain or Rewrite?"
-  - AI collaboration in software engineering
-  - Delegating testing workflows to AI systems
+Docker · Kubernetes · GitLab CI/CD · Jenkins · ArgoCD · GCP · Azure
 
 ------------------------------------------------------------------------
 
@@ -148,7 +137,5 @@ short-term speed.
 ## Contact
 
 LinkedIn: https://linkedin.com/in/valentindumas\
-
 Website: https://craft-agents.com\
-
 Email: pro.valentindumas@gmail.com
